@@ -23,27 +23,18 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianadossantossoares/" /></a>
-
-#
-
-<details open="">
-  <summary>
-    <img src="https://media.giphy.com/media/ZOKhyP4ai1guMHhwFB/giphy.gif" height="25"
-    <span> 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬 : </span>
-  </summary>
-  <br>
-
-<div align="center">
-  <a href="https://github.com/julianassoa">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=julianassoa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianassoa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
- #   
  
- 
+__
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+____
+
+### :fire: My stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Julianassoa&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?Julianassoa=<JULIANASSOA>&theme=dark">
 
