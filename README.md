@@ -18,13 +18,13 @@
 </p>
 
 
-  <a href="julianasantsoa@gmail.com" target="_blank" alt="Gmail">
+  <a href="mailto:julianasantsoa@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=julianasantsoa@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/julianadossantossoares/" target="_blank" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/julianadossantossoares/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianadossantossoares/" /></a>
   
-  <a href="https://www.behance.net/julianassoares" target="_blank" alt="Behance">
+  <a href="https://www.behance.net/julianassoares" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white&link=https://behance.net/Julianassoa" /></a>
    
   
